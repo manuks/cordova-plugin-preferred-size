@@ -1,0 +1,14 @@
+{
+  "name": "cordova-plugin-preferred-size",
+  "version": "0.0.1",
+  "description": "Sets min size for windows 10 desktop application",
+  "cordova": {
+    "id": "cordova-plugin-preferred-size",
+    "platforms": []
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "manuks@gmail.com",
+  "license": "ISC"
+}
